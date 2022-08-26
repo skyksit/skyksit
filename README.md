@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hi%20there👋&textBg=true&animation=twinkling&fontSize=40)
 
 ![skyksit's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyksit&show_icons=true&theme=radical)
 
@@ -7,6 +7,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyksit&layout=compact&theme=radical)](https://github.com/skyksit/)
 
 [![skyksit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skyksit&theme=radical)](https://github.com/skyksit/)
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=skyksit&theme=kakao)](https://github.com/loosie/github-readme-tistory-card)
 
 <!--
 **skyksit/skyksit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
