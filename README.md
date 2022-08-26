@@ -13,19 +13,21 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-371%20Thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
-> 🏆 83 Contributions in the Year 2022
+**🐱 저의 GitHub 정보에요.** 
+
+> 🏆 84 만큼의 Contributions을 2022년에 했어요
  > 
-> 📦 968.7 kB Used in GitHub's Storage 
+> 📦 GitHub의 968.7 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🚫 Not Opted to Hire
+> 🚫 구직중이지 않아요.
  > 
-> 📜 28 Public Repositories 
+> 📜 28개의 Public Repository를 만들었어요. 
  > 
-> 🔑 6 Private Repositories  
+> 🔑 6개의 Private Repository를 만들었어요.  
  > 
-**I Mostly Code in JavaScript** 
+**저는 주로 JavaScript 언어를 사용해요.** 
 
 ```text
 JavaScript               13 repos            ██████████████░░░░░░░░░░░   59.09% 
@@ -36,12 +38,12 @@ CSS                      1 repo              █░░░░░░░░░░�
 ```
 
 
-**Timeline**
+**타임라인**
 
 ![Chart not found](https://raw.githubusercontent.com/skyksit/skyksit/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/08/2022 05:14:09 UTC
+ Last Updated on 26/08/2022 05:23:35 UTC
 <!--END_SECTION:waka-->
 
 <!--
