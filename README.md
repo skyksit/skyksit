@@ -2,9 +2,12 @@
 
 ![skyksit's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyksit&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyksit&repo=react-native-todo-app-tdd)](https://github.com/skyksit/react-native-todo-app-tdd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyksit&repo=react-native-todo-app-tdd&theme=radical)](https://github.com/skyksit/react-native-todo-app-tdd)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyksit&layout=compact)](https://github.com/skyksit/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyksit&layout=compact&theme=radical)](https://github.com/skyksit/)
+
+[![skyksit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skyksit&theme=radical)](https://github.com/skyksit/)
+
 <!--
 **skyksit/skyksit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
