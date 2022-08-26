@@ -9,6 +9,39 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=skyksit&theme=kakao)](https://github.com/skyksit/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 83 Contributions in the Year 2022
+ > 
+> 📦 968.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 28 Public Repositories 
+ > 
+> 🔑 6 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               13 repos            ██████████████░░░░░░░░░░░   59.09% 
+HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/skyksit/skyksit/main/charts/bar_graph.png) 
+
+
+ Last Updated on 26/08/2022 05:14:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
