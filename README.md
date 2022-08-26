@@ -6,9 +6,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyksit&layout=compact&theme=radical)](https://github.com/skyksit/)
 
-[![skyksit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skyksit&theme=radical)](https://github.com/skyksit/)
+[![skyksit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skyksit)](https://github.com/skyksit/)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=skyksit&theme=kakao)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=skyksit&theme=kakao)](https://github.com/skyksit/)
 
 <!--
 **skyksit/skyksit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
