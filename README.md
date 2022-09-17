@@ -14,7 +14,7 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=skyksit&theme=kakao)](https://github.com/skyksit/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -24,7 +24,7 @@
 
 > 🏆 208 만큼의 Contributions을 2022년에 했어요
  > 
-> 📦 GitHub의 147.9 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 148.0 kB만큼의 저장소를 사용하고 있어요. 
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -96,7 +96,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/skyksit/skyksit/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/09/2022 19:02:22 UTC
+ Last Updated on 17/09/2022 18:55:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
