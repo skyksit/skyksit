@@ -14,7 +14,7 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=skyksit&theme=kakao)](https://github.com/skyksit/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -95,7 +95,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/skyksit/skyksit/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/09/2022 18:48:35 UTC
+ Last Updated on 01/10/2022 18:50:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
